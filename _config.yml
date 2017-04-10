@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-name: 何雨泽的博客
+name: ryze's blog
 description: Software Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
@@ -8,7 +8,7 @@ url: https://coolryze.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
-baseurl: '/coolryze.github.io'
+baseurl: '/'
 
 share:
   facebook: true
@@ -36,7 +36,7 @@ yandex_metrica:
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
 disqus: streetturtle
-comments: false
+comments: true
 
 permalink: /:year/:month/:title
 

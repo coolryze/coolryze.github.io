@@ -4,11 +4,11 @@ name: ryze's blog
 description: Software Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: https://coolryze.github.io
+# url: https://coolryze.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
-baseurl: '/'
+baseurl: '/coolryze.github.io'
 
 share:
   facebook: true

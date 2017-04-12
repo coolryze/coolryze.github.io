@@ -21,9 +21,9 @@ share:
 social:
   github: coolryze
   stackoverflow: ''
-  linkedin:
+  # linkedin:
   instagram: coolryze
-  lastfm: ''
+  # lastfm: ''
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
@@ -36,7 +36,7 @@ yandex_metrica:
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
 disqus: coolryze
-comments: true
+comments: false
 
 permalink: /:year/:month/:title
 
